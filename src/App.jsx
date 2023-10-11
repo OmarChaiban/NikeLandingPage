@@ -1,5 +1,6 @@
 import {CustomerReviews,Footer, Hero, PopularProducts,SuperQuality,Subscribe,SpecialOffer,Services} from "./Sections";
 import NavBar from "./Components/NavBar";
+import React from 'react';
 
 const App = () =>(
   <main className="relative">

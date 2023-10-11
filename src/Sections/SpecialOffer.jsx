@@ -1,3 +1,4 @@
+import React from 'react';
 import Button from "../Components/Button"
 import { arrowRight } from "../assets/icons"
 import { offer, shoe8 } from "../assets/images"

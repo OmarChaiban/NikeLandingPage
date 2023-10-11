@@ -1,4 +1,5 @@
 import { star } from "../assets/icons"
+import React from 'react';
 
 function ReviewCard({imgURL,customerName,rating,feedback}) {
   return (

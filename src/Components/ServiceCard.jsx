@@ -1,4 +1,5 @@
 
+import React from 'react';
 
 function ServiceCard({imgURL,label,subtext}) {
   return (

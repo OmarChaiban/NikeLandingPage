@@ -1,6 +1,7 @@
 import Button from "../Components/Button"
 import { arrowRight } from "../assets/icons"
 import { shoe8 } from "../assets/images"
+import React from 'react';
 
 const SuperQuality = () => {
   return (

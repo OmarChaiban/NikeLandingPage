@@ -1,3 +1,4 @@
+import React from 'react';
 import Button from "../Components/Button"
 import ShoeCard from "../Components/ShoeCard"
 import { arrowRight } from "../assets/icons"
