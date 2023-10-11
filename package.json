@@ -1,7 +1,7 @@
 {
   "name": "nike",
   "private": true,
-  "homepage": "https://omarchaiban.github.io/NikeLandingPage/",
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
