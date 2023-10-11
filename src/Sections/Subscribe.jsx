@@ -1,4 +1,4 @@
-import Button from "../Components/button"
+import Button from "../Components/Button"
 
 const Subscribe = () => {
   return (
